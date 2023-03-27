@@ -162,7 +162,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-![output}(blob:https://web.whatsapp.com/b4f0a7a3-9912-43a1-b229-aca53e7f9987)
+
 
 
 
